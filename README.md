@@ -1,6 +1,6 @@
-# Desafío 19 SQL
+# Desafío 18 SQL
 
-Este repositorio contiene las consultas SQL realizadas para el Desafío 19 de SQL, junto con las capturas de pantalla de los resultados.
+Este repositorio contiene las consultas SQL realizadas para el Desafío 18 de SQL, junto con las capturas de pantalla de los resultados.
 
 ## Contenido del repositorio
 
